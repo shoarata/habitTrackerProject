@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Habit tracker</string>
+    <string name="could_not_insert">FAILED INSERTION</string>
+    <string name="successful_insertion">SUCCESSFULLY INSERTED</string>
+</resources>
