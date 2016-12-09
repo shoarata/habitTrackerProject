@@ -8,7 +8,8 @@ import static android.R.attr.id;
  * Created by arata on 08/12/2016.
  */
 
-public class RunningContract {
+public final class RunningContract {
+    private RunningContract(){}
     public static class  RunningEntry implements BaseColumns{
         public final static String TABLE_NAME = "runnings";
 
